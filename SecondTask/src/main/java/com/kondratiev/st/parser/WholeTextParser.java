@@ -17,6 +17,5 @@ public class WholeTextParser extends AbstractTextParser {
         }
 
         return textComposite;
-
     }
 }

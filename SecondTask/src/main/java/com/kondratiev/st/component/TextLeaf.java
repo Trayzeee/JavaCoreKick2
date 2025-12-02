@@ -1,6 +1,5 @@
 package com.kondratiev.st.component;
 
-
 public class TextLeaf extends TextComponent {
     private char text;
 
