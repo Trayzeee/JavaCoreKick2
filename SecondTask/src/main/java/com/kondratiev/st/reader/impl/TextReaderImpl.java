@@ -3,7 +3,6 @@ package com.kondratiev.st.reader.impl;
 import com.kondratiev.st.exception.TextOperatingException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.kondratiev.st.exception.TextOperatingException;
 import com.kondratiev.st.reader.TextReader;
 
 import java.io.IOException;

@@ -6,6 +6,6 @@ public enum TextComponentType {
     SENTENCE,
     LEXEME,
     WORD,
-    SYMBOL,
-    PUNCTUATION
+    PUNCTUATION,
+    SYMBOL
 }
