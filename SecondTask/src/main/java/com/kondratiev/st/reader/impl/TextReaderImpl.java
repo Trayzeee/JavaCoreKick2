@@ -25,7 +25,7 @@ public class TextReaderImpl implements TextReader {
 
             Path filePath = Path.of(resource.toURI());
             String result = Files.readString(filePath);
-            logger.info("file readed");
+            logger.info("File {} read successfully", filePath);
             return result;
 
         } catch (IOException e) {
